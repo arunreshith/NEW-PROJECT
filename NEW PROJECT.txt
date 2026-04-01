@@ -3,4 +3,4 @@
 •	Change profile Raghun to 1teeya for commercial plans
 •	Move around diagnosis codes and remove any that will cause inclusive denials
 •	Any bcbs claim- check if prefix is JLJ if so change carrier to nsipa
-•	Cigna and bcbs claims with 73630, 73620 73610 on 2 lines change to one line with 50 mod 	DME claims with Raghun change to Robbins
+•	Cigna and bcbs claims with 73630, 73620 73610 on 2 lines change to one line with 50 mod 	DME claims with Raghun change to Robbi
