@@ -1,0 +1,19 @@
+what is git 
+git is a version cotrole tool
+and source code management tool
+
+there are tye types in git
+local and remote 
+loccal git ex git bash
+remote git ex github
+
+steps
+ git init = create  one folder git
+git config --global.email user.'arunsreshith@gmail.com'
+git config --global.mail user.'arun reshith'
+git remote add origin 'https://github.com/arunreshith/NEW-PROJECT.git'
+git add"....xt."
+
+git commit -m "new project"
+git push origin master
+
